@@ -1,4 +1,5 @@
-fetch('http://localhost:3000/productos')
+// fetch('http://localhost:3000/productos')
+fetch('https://api-rest-json-render.onrender.com/productos')
 
     .then(respuesta => respuesta.json())
     // .then(datos=> console.log(datos))

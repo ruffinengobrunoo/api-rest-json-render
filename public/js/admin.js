@@ -1,4 +1,5 @@
-const endpoint = '/productos'
+// const endpoint = '/productos'
+const endpoint = 'https://api-rest-json-render.onrender.com/productos'
 mostrarMensaje = (mensaje) => {
   document.querySelector('#divMensaje').innerHTML = mensaje;
 }
