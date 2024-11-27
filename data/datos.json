@@ -1,0 +1,53 @@
+{
+    "productos": [
+        {
+            "titulo": "Libro",
+            "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque, ipsum.",
+            "precio": "1000",
+            "imagen": "img1.jpg",
+            "id": 1
+        },
+        {
+            "titulo": "Libro",
+            "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque, ipsum.",
+            "precio": "1000",
+            "imagen": "img2.jpg",
+            "id": 2
+        },
+        {
+            "titulo": "Libro",
+            "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque, ipsum.",
+            "precio": "1000",
+            "imagen": "img3.jpg",
+            "id": 3
+        },
+        {
+            "titulo": "Libro",
+            "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque, ipsum.",
+            "precio": "1000",
+            "imagen": "img4.jpg",
+            "id": 4
+        },
+        {
+            "titulo": "Libro",
+            "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque, ipsum.",
+            "precio": "1000",
+            "imagen": "img5.jpg",
+            "id": 5
+        },
+        {
+            "titulo": "Libro",
+            "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque, ipsum.",
+            "precio": "1000",
+            "imagen": "img7.jpg",
+            "id": 6
+        },
+        {
+            "id": "7",
+            "titulo": "libro",
+            "descripcion": "prueba",
+            "precio": "12",
+            "imagen": "img8.jpg"
+        }
+    ]
+}
